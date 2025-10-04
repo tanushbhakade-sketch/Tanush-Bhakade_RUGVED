@@ -18,5 +18,3 @@ def coleman_liau_index(text):
     else:
         return f"Grade {index}"
 
-
-
